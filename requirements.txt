@@ -67,7 +67,7 @@ mpmath==0.19
 msgpack-python==0.4.8
 multipledispatch==0.4.9
 munch==2.1.1
-numpy==1.12.1
+numpy==1.21.0
 numpydoc==0.6.0
 pandas==0.20.1
 pandocfilters==1.4.1
